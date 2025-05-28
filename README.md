@@ -33,3 +33,9 @@ This project demonstrates core networking concepts, request handling, and file s
 ```bash
 git clone https://github.com/mdshoaib9900/CustomeHttpServer.git
 cd CustomeHttpServer
+
+Author
+Mohammed Shoaib
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
